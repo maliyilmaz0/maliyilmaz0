@@ -1,5 +1,7 @@
 <h2> Hi, I'm Mehmet Ali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="230" border-radius=10px>
+<div border-radius=20px>
+  <img align='right' src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="230">
+</div>
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
