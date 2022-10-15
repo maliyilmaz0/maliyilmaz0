@@ -9,7 +9,7 @@
 
 ```javascript
 const mehmet = {
-  pronouns: "he" | "his",
+  pronouns: "he" | "him",
   code: [Python, Javascript, Typescript, HTML, CSS, ReactJS / Native],
   tools: [VS Code, React, Node, npm],
   architecture: ["machinelearning", "artificialintelligence", "webservices"],
