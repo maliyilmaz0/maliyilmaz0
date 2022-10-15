@@ -30,7 +30,7 @@ if __name__ == '__main__':
     me = maliyilmaz0()
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you have a problem that you think i can solve</b> don't be shy <b>hi, ASK ME!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you have a problem that you think i can solve</b> don't be shy <b>ASK ME!</b> :)</em>
 
 <img align='center' src="https://media.giphy.com/media/1RkDDoIVs3ntm/giphy.gif" width="230">
 
