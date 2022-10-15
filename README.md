@@ -1,5 +1,5 @@
 <h2> Hi, I'm Mehmet Ali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif" width="230">
 <p><em>Computer Enginner Student at <a href="https://www.mehmetakif.edu.tr/">Mehmet Akif Ersoy University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working Freelance<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -32,4 +32,5 @@ if __name__ == '__main__':
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<img align='center' src="https://media.giphy.com/media/1RkDDoIVs3ntm/giphy.gif" width="230">
 ---
