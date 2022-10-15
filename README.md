@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mehmet Ali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="230">
-<p><em>Computer Enginner Student at <a href="https://www.mehmetakif.edu.tr/">Mehmet Akif Ersoy University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Computer Enginner Student at <a href="https://www.mehmetakif.edu.tr/">Mehmet Akif Ersoy University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working Freelance<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThreshKolanyasi](https://img.shields.io/twitter/follow/ThreshKolanyasi?style=social)](https://twitter.com/ThreshKolanyasi)
