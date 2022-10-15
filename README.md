@@ -8,17 +8,26 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const mehmet = {
-  pronouns: "he" | "him",
-  code: [Python, Javascript, Typescript, HTML, CSS, ReactJS / Native],
-  tools: [VS Code, React, Node, npm],
-  architecture: ["machinelearning", "artificialintelligence", "webservices"],
-  techCommunities: {
-                        coorganizer: "Ecodation",
-                        speaker: "Doğu Sırt",
-                      },
- challenge: "I am trying to do my own Jarvis 'LOL'"
-}
+class maliyilmaz0:
+
+    def __init__(self):
+        self.username = 'maliyilmaz0'
+        self.name = 'Mehmet Ali YILMAZ'
+        self.instagram = '@maliyilmaz0'
+        self.code = {
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native'],
+            'backend': ['Python', 'NodeJS'],
+            'machinelearning': ['sklearn', 'pandas', 'numpy'],
+            'database': ['Oracle SQL'],
+            'tools': ['GIT', 'GitHub', 'VS Code', 'Jupyter notebook'],
+            'misc': ['GNU/Linux', 'Windows']
+        }
+        
+    def __str__(self):
+        return self.name
+
+if __name__ == '__main__':
+    me = maliyilmaz0()
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
