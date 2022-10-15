@@ -8,17 +8,16 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+const mehmet = {
+  pronouns: "he" | "his",
+  code: [Python, Javascript, Typescript, HTML, CSS, ReactJS / Native],
+  tools: [VS Code, React, Node, npm],
+  architecture: ["machinelearning", "artificialintelligence", "webservices"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "Ecodation",
+                        speaker: "Doğu Sırt",
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am trying to do my own Jarvis 'LOL'"
 }
 ```
 
