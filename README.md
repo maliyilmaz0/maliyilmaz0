@@ -18,9 +18,9 @@ class maliyilmaz0:
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native'],
             'backend': ['Python', 'NodeJS'],
             'machinelearning': ['sklearn', 'pandas', 'numpy'],
-            'database': ['Oracle SQL'],
+            'database': ['Oracle SQL', 'MongoDB'],
             'tools': ['GIT', 'GitHub', 'VS Code', 'Jupyter notebook'],
-            'misc': ['GNU/Linux', 'Windows']
+            'misc': ['MacOS', 'GNU/Linux', 'Windows']
         }
         
     def __str__(self):
