@@ -1,6 +1,6 @@
 <h2> Hi, I'm Mehmet Ali! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif" width="230">
-<p><em>Front-End based AI Engineer</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working Freelance<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Full-Stack Dev</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently working Rakort<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThreshKolanyasi](https://img.shields.io/twitter/follow/ThreshKolanyasi?style=social)](https://twitter.com/ThreshKolanyasi)
@@ -13,14 +13,14 @@ class maliyilmaz0:
     def __init__(self):
         self.username = 'maliyilmaz0'
         self.name = 'Mehmet Ali YILMAZ'
-        self.instagram = '@maliyilmaz0'
+        self.instagram = '@kelmuhendis'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'React Native'],
-            'backend': ['Python', 'NodeJS'],
-            'machinelearning': ['sklearn', 'pandas', 'numpy'],
-            'database': ['Oracle SQL', 'MongoDB'],
-            'tools': ['GIT', 'GitHub', 'VS Code', 'Jupyter notebook'],
-            'misc': ['MacOS', 'GNU/Linux', 'Windows']
+            'frontend': ['Django / Flask', 'React JS / Native'],
+            'backend': ['Python', 'Javascript / Typescript'],
+            'AI': ['keras', 'cnn', 'tensorflow', 'torch'],
+            'database': ['PostgreSQL', 'MongoDB'],
+            'tools': ['GIT', 'Bitbucket', 'Jetbrains', 'Docker'],
+            'misc': ['Ubuntu / Fedora', 'Windows']
         }
         
     def __str__(self):
