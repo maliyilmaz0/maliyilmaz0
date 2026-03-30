@@ -15,12 +15,12 @@ class maliyilmaz0:
         self.name = 'Mehmet Ali YILMAZ'
         self.instagram = '@kelmuhendis'
         self.code = {
-            'frontend': ['Django / Flask', 'React JS / Native'],
-            'backend': ['Python', 'Javascript / Typescript'],
+            'frontend': ['React', 'Vue JS'],
+            'backend': ['Python', 'Javascript / Typescript', 'Golang'],
             'AI': ['keras', 'cnn', 'tensorflow', 'torch'],
-            'database': ['PostgreSQL', 'MongoDB'],
-            'tools': ['GIT', 'Bitbucket', 'Jetbrains', 'Docker'],
-            'misc': ['Ubuntu / Fedora', 'Windows']
+            'database': ['PostgreSQL'],
+            'tools': ['GIT', 'Bitbucket', 'Docker', 'Kube'],
+            'misc': ['Mac', 'Windows', 'Linux']
         }
         
     def __str__(self):
@@ -30,7 +30,7 @@ if __name__ == '__main__':
     me = maliyilmaz0()
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you have a problem that you think i can solve</b> don't be shy <b>ASK ME!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you have a problem that you think i can solve</b> don't be shy <b>Don't ASK ME!</b> :)</em>
 
 <img align='center' src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif">
 
